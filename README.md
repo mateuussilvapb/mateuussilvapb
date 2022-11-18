@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Mateus Dias!
 
-- 💼💻 Trabalhando atualmente na Minsait | Indra como desenvolvedor PL/SQL!
+- 💼💻 Trabalhando atualmente na Minsait | Indra como desenvolvedor Java WEB!
 - 📓📖 Estudando Java, SpringBoot, Angular, SQL, PL/SQL, Bootstrap, HTML, CSS, JavaScript, TypeScript e por aí vai rsrs!
 - Me considero esforçado e pronto para aceitar novos desafios!
 ##
